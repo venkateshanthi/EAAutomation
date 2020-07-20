@@ -1,10 +1,16 @@
-﻿using System;
+﻿using OpenQA.Selenium;
+using SeleniumExtras.PageObjects;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace EAAutoFramework.Base
 {
-    class BasePage
+    public abstract class BasePage
     {
+        public BasePage()
+        {
+            PageFactory.InitElements(DriverContext.Driver, this);
+        }
     }
 }

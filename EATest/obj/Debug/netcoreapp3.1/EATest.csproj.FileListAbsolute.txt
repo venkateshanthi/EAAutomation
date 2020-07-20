@@ -5,6 +5,7 @@ D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\EATest.deps.json
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\EATest.runtimeconfig.json
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\EATest.runtimeconfig.dev.json
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\EATest.dll
+D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\EATest.pdb
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -18,6 +19,7 @@ D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Te
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\WebDriver.dll
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -86,10 +88,12 @@ D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualS
 D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.AssemblyInfoInputs.cache
 D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.AssemblyInfo.cs
 D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.csproj.CopyComplete
-D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.genruntimeconfig.cache
-D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\WebDriver.dll
-D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\EATest.pdb
-D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.csproj.CoreCompileInputs.cache
 D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.dll
 D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.pdb
+D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.genruntimeconfig.cache
 D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.csprojAssemblyReference.cache
+D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll
+D:\Project\EAAutomation\EATest\obj\Debug\netcoreapp3.1\EATest.csproj.CoreCompileInputs.cache
+D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\EAAutoFramework.dll
+D:\Project\EAAutomation\EATest\bin\Debug\netcoreapp3.1\EAAutoFramework.pdb

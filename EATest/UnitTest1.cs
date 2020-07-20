@@ -1,3 +1,5 @@
+using EAAutoFramework.Base;
+using EATest.Pages;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -8,14 +10,25 @@ namespace EATest
     public class UnitTest1
     {
 
-        string url = "https://www.confirmtkt.com/";
-        private IWebDriver _driver;
+        string url = "https://www.gov.uk/check-uk-visa";
 
         [TestMethod]
         public void TestMethod1()
         {
-            _driver = new ChromeDriver();
-            _driver.Navigate().GoToUrl(url);
+            DriverContext.Driver = new ChromeDriver();
+            DriverContext.Driver.Navigate().GoToUrl(url);
+            DriverContext.Driver.Manage().Window.Maximize();
+            Gov();
+
+
+
         }
+              
+        public void Gov()
+        {
+            var loginpage = new LoginPage();
+            loginpage.lnkStart.Click();
+        }
+
     }
 }

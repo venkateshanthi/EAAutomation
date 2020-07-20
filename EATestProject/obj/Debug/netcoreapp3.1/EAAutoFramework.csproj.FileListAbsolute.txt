@@ -3,6 +3,7 @@ D:\Project\EAAutomation\EATestProject\bin\Debug\netcoreapp3.1\EAAutoFramework.dl
 D:\Project\EAAutomation\EATestProject\bin\Debug\netcoreapp3.1\EAAutoFramework.pdb
 D:\Project\EAAutomation\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.AssemblyInfoInputs.cache
 D:\Project\EAAutomation\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.AssemblyInfo.cs
-D:\Project\EAAutomation\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.csproj.CoreCompileInputs.cache
 D:\Project\EAAutomation\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.dll
 D:\Project\EAAutomation\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.pdb
+D:\Project\EAAutomation\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.csprojAssemblyReference.cache
+D:\Project\EAAutomation\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.csproj.CoreCompileInputs.cache
